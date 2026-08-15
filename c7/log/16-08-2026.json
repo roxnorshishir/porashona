@@ -1,5 +1,20 @@
 [
   {
+    "id": "log_1786821612904_8zaz5",
+    "timestamp": 1786821612904,
+    "timeString": "01:20:12 AM",
+    "dateString": "16-08-2026",
+    "action": "CREATE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "রিসোর্স যোগ করা হয়েছে: 'mcq-explanation-guideline.md'",
+    "userEmail": "roxnorshishir@gmail.com"
+  },
+  {
     "id": "log_1786821010405_d697i",
     "timestamp": 1786821010405,
     "timeString": "01:10:10 AM",
