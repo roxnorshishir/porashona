@@ -1,5 +1,25 @@
 [
   {
+    "id": "trash_1786821007521_e6mg5",
+    "deletedAt": 1786821007521,
+    "classId": "c7",
+    "type": "RESOURCE",
+    "itemData": {
+      "id": "res2",
+      "type": "doc",
+      "title": "অপরিচিতা গল্পের জ্ঞানমূলক ও অনুধাবনমূলক প্রশ্নপত্র PDF",
+      "url": "https://example.com/oporicita.pdf",
+      "description": "পরীক্ষার পূর্ব প্রস্তুতিতে সহায়ক লেকচার শিট।"
+    },
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "originalFilePath": "",
+    "spamFilePath": "",
+    "userEmail": "roxnorshishir@gmail.com"
+  },
+  {
     "id": "trash_1786821004046_n5a98",
     "deletedAt": 1786821004046,
     "classId": "c7",
