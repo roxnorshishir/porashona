@@ -1,0 +1,17 @@
+[
+  {
+    "id": "log_1786821005800_3ie3r",
+    "timestamp": 1786821005800,
+    "timeString": "01:10:05 AM",
+    "dateString": "16-08-2026",
+    "action": "DELETE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "রিসোর্স স্প্যাম ফোল্ডারে পাঠানো হয়েছে: 'অপরিচিতা — পূর্ণাঙ্গ নাটক ও ব্যাখ্যা ক্লাস'",
+    "userEmail": "roxnorshishir@gmail.com"
+  }
+]
