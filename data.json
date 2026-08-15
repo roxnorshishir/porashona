@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "c5_b1",
+    "classId": "c5",
+    "name": "বাংলা",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c5_b1c1",
+        "name": "এই দেশ এই মানুষ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b1c2",
+        "name": "সংকল্প",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b1c3",
+        "name": "সুন্দরবনের প্রাণী",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b1c4",
+        "name": "হাতি আর শিয়ালের গল্প",
+        "num": 4,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c5_b2",
+    "classId": "c5",
+    "name": "English",
+    "sub": "English",
+    "color": "#4da6ff",
+    "icon": "📘",
+    "chapters": [
+      {
+        "id": "c5_b2c1",
+        "name": "Hello!",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b2c2",
+        "name": "See You!",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b2c3",
+        "name": "Saikat's Family",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c5_b3",
+    "classId": "c5",
+    "name": "প্রাথমিক গণিত",
+    "sub": "গণিত",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c5_b3c1",
+        "name": "গুণ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b3c2",
+        "name": "ভাগ",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b3c3",
+        "name": "চার প্রক্রিয়া সম্পর্কিত হিসাব",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c5_b4",
+    "classId": "c5",
+    "name": "প্রাথমিক বিজ্ঞান",
+    "sub": "বিজ্ঞান",
+    "color": "#ffa940",
+    "icon": "📙",
+    "chapters": [
+      {
+        "id": "c5_b4c1",
+        "name": "আমাদের পরিবেশ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b4c2",
+        "name": "পরিবেশ দূষণ",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c5_b5",
+    "classId": "c5",
+    "name": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "sub": "সমাজ",
+    "color": "#a855f7",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c5_b5c1",
+        "name": "আমাদের মুক্তিযুদ্ধ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b5c2",
+        "name": "ব্রিটিশ শাসন",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c5_b6",
+    "classId": "c5",
+    "name": "ইসলাম ও নৈতিক শিক্ষা",
+    "sub": "ধর্ম",
+    "color": "#f97316",
+    "icon": "📔",
+    "chapters": [
+      {
+        "id": "c5_b6c1",
+        "name": "আকাইদ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c5_b6c2",
+        "name": "ইবাদত",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c6_b1",
+    "classId": "c6",
+    "name": "বাংলা",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c6_b1c1",
+        "name": "মরুভাস্কর",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c6_b1c2",
+        "name": "মিনু",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c6_b1c3",
+        "name": "বাঁচতে দাও",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c6_b2",
+    "classId": "c6",
+    "name": "English",
+    "sub": "English",
+    "color": "#4da6ff",
+    "icon": "📘",
+    "chapters": [
+      {
+        "id": "c6_b2c1",
+        "name": "Talking to People",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c6_b2c2",
+        "name": "Little Things",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c6_b3",
+    "classId": "c6",
+    "name": "গণিত",
+    "sub": "গণিত",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c6_b3c1",
+        "name": "সংখ্যা জগতের গল্প",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c6_b3c2",
+        "name": "দ্বিমাত্রিক বস্তুর গল্প",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c6_b4",
+    "classId": "c6",
+    "name": "বিজ্ঞান",
+    "sub": "বিজ্ঞান",
+    "color": "#ffa940",
+    "icon": "📙",
+    "chapters": [
+      {
+        "id": "c6_b4c1",
+        "name": "বিজ্ঞানের উদ্ভাবন",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c6_b4c2",
+        "name": "আমাদের চারপাশের বস্তু",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "b1",
+    "classId": "c7",
+    "name": "বাংলা ১ম পত্র",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "b1c1",
+        "name": "অপরিচিতা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c2",
+        "name": "বিলাসী",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c3",
+        "name": "আমার পড়া",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c4",
+        "name": "লালসালু",
+        "num": 4,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c5",
+        "name": "মাসি-পিসি",
+        "num": 5,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c6",
+        "name": "বিড়াল",
+        "num": 6,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c7",
+        "name": "হৈমন্তী",
+        "num": 7,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c8",
+        "name": "কবিতা পাঠ",
+        "num": 8,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c9",
+        "name": "প্রবন্ধ",
+        "num": 9,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b1c10",
+        "name": "চিঠি ও আবেদন",
+        "num": 10,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "b2",
+    "classId": "c7",
+    "name": "বাংলা ২য় পত্র",
+    "sub": "বাংলা ব্যাকরণ",
+    "color": "#f06cac",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "b2c1",
+        "name": "বাক্য",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b2c2",
+        "name": "শব্দ প্রকরণ",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b2c3",
+        "name": "পদ পরিচয়",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b2c4",
+        "name": "ছন্দ ও অলংকার",
+        "num": 4,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b2c5",
+        "name": "অনুচ্ছেদ",
+        "num": 5,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "b3",
+    "classId": "c7",
+    "name": "ইংরেজি ১ম পত্র",
+    "sub": "English",
+    "color": "#4da6ff",
+    "icon": "📘",
+    "chapters": [
+      {
+        "id": "b3c1",
+        "name": "Reading Comprehension",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b3c2",
+        "name": "Writing: Paragraph",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b3c3",
+        "name": "Writing: Letter",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "b5",
+    "classId": "c7",
+    "name": "গণিত",
+    "sub": "Mathematics",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "b5c1",
+        "name": "সেট",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b5c2",
+        "name": "বাস্তব সংখ্যা",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b5c4",
+        "name": "বীজগণিতীয় রাশি",
+        "num": 4,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "b6",
+    "classId": "c7",
+    "name": "বিজ্ঞান",
+    "sub": "Science",
+    "color": "#ffa940",
+    "icon": "📙",
+    "chapters": [
+      {
+        "id": "b6c1",
+        "name": "কোষ ও টিস্যু",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "b6c2",
+        "name": "পরিবর্তন ও বিক্রিয়া",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c8_b1",
+    "classId": "c8",
+    "name": "বাংলা",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c8_b1c1",
+        "name": "অতিথির স্মৃতি",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c8_b1c2",
+        "name": "ভাব ও কাজ",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c8_b2",
+    "classId": "c8",
+    "name": "English",
+    "sub": "English",
+    "color": "#4da6ff",
+    "icon": "📘",
+    "chapters": [
+      {
+        "id": "c8_b2c1",
+        "name": "Beauty in Art",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c8_b2c2",
+        "name": "The Best Toy",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c8_b3",
+    "classId": "c8",
+    "name": "গণিত",
+    "sub": "গণিত",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c8_b3c1",
+        "name": "গাণিতিক অনুসন্ধানের গল্প",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c8_b3c2",
+        "name": "ক্ষুদ্র সঞ্চয়ে ভবিষ্যৎ গড়ি",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c9_b1",
+    "classId": "c9",
+    "name": "বাংলা",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c9_b1c1",
+        "name": "অনুধাবন ও মতামত প্রকাশ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c9_b1c2",
+        "name": "প্রমিত ভাষা শিখি",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c9_b2",
+    "classId": "c9",
+    "name": "English",
+    "sub": "English",
+    "color": "#4da6ff",
+    "icon": "📘",
+    "chapters": [
+      {
+        "id": "c9_b2c1",
+        "name": "Opinions, Matters and Facts",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c9_b3",
+    "classId": "c9",
+    "name": "গণিত",
+    "sub": "গণিত",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c9_b3c1",
+        "name": "অনুক্রম ও ধারা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c10_b1",
+    "classId": "c10",
+    "name": "বাংলা ১ম পত্র",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c10_b1c1",
+        "name": "শুভা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c10_b1c2",
+        "name": "বই পড়া",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c10_b5",
+    "classId": "c10",
+    "name": "সাধারণ গণিত",
+    "sub": "গণিত",
+    "color": "#3dd68c",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c10_b5c1",
+        "name": "বাস্তব সংখ্যা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c10_b5c2",
+        "name": "সেট ও ফাংশন",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c10_b7",
+    "classId": "c10",
+    "name": "পদার্থবিজ্ঞান",
+    "sub": "বিজ্ঞান",
+    "color": "#22d3ee",
+    "icon": "⚛️",
+    "chapters": [
+      {
+        "id": "c10_b7c1",
+        "name": "ভৌত রাশি ও পরিমাপ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c10_b7c2",
+        "name": "গতি",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c10_b7c3",
+        "name": "বল",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c10_b8",
+    "classId": "c10",
+    "name": "রসায়ন",
+    "sub": "বিজ্ঞান",
+    "color": "#ffa940",
+    "icon": "🧪",
+    "chapters": [
+      {
+        "id": "c10_b8c1",
+        "name": "রসায়নের ধারণা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c10_b8c2",
+        "name": "পদার্থের অবস্থা",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c11_b1",
+    "classId": "c11",
+    "name": "বাংলা ১ম পত্র (HSC)",
+    "sub": "বাংলা",
+    "color": "#f0506e",
+    "icon": "📕",
+    "chapters": [
+      {
+        "id": "c11_b1c1",
+        "name": "অপরিচিতা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b1c2",
+        "name": "বিলাসী",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c11_b3",
+    "classId": "c11",
+    "name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "sub": "ICT",
+    "color": "#22d3ee",
+    "icon": "💻",
+    "chapters": [
+      {
+        "id": "c11_b3c1",
+        "name": "বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b3c2",
+        "name": "কমিউনিকেশন সিস্টেমস ও নেটওয়ার্কিং",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b3c3",
+        "name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c11_b4",
+    "classId": "c11",
+    "name": "পদার্থবিজ্ঞান ১ম পত্র",
+    "sub": "Physics",
+    "color": "#7c6cff",
+    "icon": "⚛️",
+    "chapters": [
+      {
+        "id": "c11_b4c1",
+        "name": "ভৌত জগৎ ও পরিমাপ",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b4c2",
+        "name": "ভেক্টর",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b4c3",
+        "name": "নিউটনীয় বলবিজ্ঞান",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c11_b5",
+    "classId": "c11",
+    "name": "রসায়ন ১ম পত্র",
+    "sub": "Chemistry",
+    "color": "#ffa940",
+    "icon": "🧪",
+    "chapters": [
+      {
+        "id": "c11_b5c1",
+        "name": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c11_b5c2",
+        "name": "গুণগত রসায়ন",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c12_b1",
+    "classId": "c12",
+    "name": "বাংলা ২য় পত্র (HSC)",
+    "sub": "বাংলা",
+    "color": "#f06cac",
+    "icon": "📗",
+    "chapters": [
+      {
+        "id": "c12_b1c1",
+        "name": "বাংলা উচ্চারণের নিয়ম",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c12_b1c2",
+        "name": "বাংলা বানানের নিয়ম",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c12_b4",
+    "classId": "c12",
+    "name": "পদার্থবিজ্ঞান ২য় পত্র",
+    "sub": "Physics",
+    "color": "#7c6cff",
+    "icon": "⚛️",
+    "chapters": [
+      {
+        "id": "c12_b4c1",
+        "name": "তাপগতিবিদ্যা",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c12_b4c2",
+        "name": "স্থির তড়িৎ",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c12_b4c3",
+        "name": "চল তড়িৎ",
+        "num": 3,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "c12_b5",
+    "classId": "c12",
+    "name": "রসায়ন ২য় পত্র",
+    "sub": "Chemistry",
+    "color": "#ffa940",
+    "icon": "🧪",
+    "chapters": [
+      {
+        "id": "c12_b5c1",
+        "name": "পরিবেশ রসায়ন",
+        "num": 1,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "c12_b5c2",
+        "name": "জৈব রসায়ন",
+        "num": 2,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "ielts_b1",
+    "classId": "ielts",
+    "name": "IELTS Listening",
+    "sub": "Listening Module",
+    "color": "#7c6cff",
+    "icon": "🎧",
+    "chapters": [
+      {
+        "id": "ielts_b1c1",
+        "name": "Section 1: Form & Note Completion",
+        "num": 1,
+        "summary": "Strategies for completing forms, tables, and notes accurately.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b1c2",
+        "name": "Section 2: Multiple Choice & Map Labelling",
+        "num": 2,
+        "summary": "Navigating maps, plans, and multiple choice questions.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b1c3",
+        "name": "Section 3 & 4: Academic Discussions & Lectures",
+        "num": 3,
+        "summary": "Understanding complex academic lectures and multi-speaker dialogues.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "ielts_b2",
+    "classId": "ielts",
+    "name": "IELTS Academic Reading",
+    "sub": "Reading Module",
+    "color": "#36cfc9",
+    "icon": "📖",
+    "chapters": [
+      {
+        "id": "ielts_b2c1",
+        "name": "True / False / Not Given & Yes / No / Not Given",
+        "num": 1,
+        "summary": "Differentiating stated facts, writer opinions, and unmentioned information.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b2c2",
+        "name": "Matching Headings & Information",
+        "num": 2,
+        "summary": "Skimming paragraph themes and identifying specific information.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b2c3",
+        "name": "Summary & Sentence Completion",
+        "num": 3,
+        "summary": "Scanning techniques for exact word completion and synonyms.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "ielts_b3",
+    "classId": "ielts",
+    "name": "IELTS Academic Writing",
+    "sub": "Writing Module",
+    "color": "#ff7a45",
+    "icon": "✍️",
+    "chapters": [
+      {
+        "id": "ielts_b3c1",
+        "name": "Task 1: Line Graphs, Bar Charts & Maps",
+        "num": 1,
+        "summary": "Writing overview sentences, describing trends, and data comparisons.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b3c2",
+        "name": "Task 2: Essay Structures & Cohesion",
+        "num": 2,
+        "summary": "Structuring Opinion, Discussion, Problem-Solution, and Direct Question essays.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "ielts_b4",
+    "classId": "ielts",
+    "name": "IELTS Speaking",
+    "sub": "Speaking Module",
+    "color": "#ff4d4f",
+    "icon": "🗣️",
+    "chapters": [
+      {
+        "id": "ielts_b4c1",
+        "name": "Part 1: Introduction & Personal Questions",
+        "num": 1,
+        "summary": "Fluency, vocabulary extension, and confident responses.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b4c2",
+        "name": "Part 2: Cue Card & Individual Long Turn",
+        "num": 2,
+        "summary": "Structuring 2-minute talks with PPF (Past, Present, Future) techniques.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "ielts_b4c3",
+        "name": "Part 3: Abstract Two-way Discussion",
+        "num": 3,
+        "summary": "Speculating, evaluating, and presenting balanced arguments.",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      }
+    ]
+  }
+]
