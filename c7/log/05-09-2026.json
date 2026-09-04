@@ -1,0 +1,32 @@
+[
+  {
+    "id": "log_1788559085823_v4pvh",
+    "timestamp": 1788559085823,
+    "timeString": "03:58:05 AM",
+    "dateString": "05-09-2026",
+    "action": "CREATE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "রিসোর্স শেয়ার করা হয়েছে '@engrshishir'-এ",
+    "userEmail": "roxnorshishir@gmail.com"
+  },
+  {
+    "id": "log_1788553773023_6g0vd",
+    "timestamp": 1788553773023,
+    "timeString": "02:29:33 AM",
+    "dateString": "05-09-2026",
+    "action": "CREATE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "mtnax9dyhd147xj",
+    "bookName": "Hi",
+    "chapterId": "mtnaxp33rmk4hjn",
+    "chapterName": "hello",
+    "details": "রিসোর্স যোগ করা হয়েছে: 'sdfds'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  }
+]
