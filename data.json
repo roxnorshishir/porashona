@@ -361,11 +361,61 @@
         "id": "b1c1",
         "name": "অপরিচিতা",
         "num": 1,
-        "summary": "",
-        "pq": [],
-        "mcqs": [],
-        "resources": [],
-        "notes": []
+        "summary": "‘অপরিচিতা’ গল্পটি প্রথম প্রকাশিত হয় সবুজ পত্র পত্রিকার ১৩২১ বঙ্গাব্দের কার্তিক সংখ্যায়। এটি প্রথম গ্রন্থভুক্ত হয় রবীন্দ্রনাথের 'গল্পসপ্তক' গল্পসংগ্রহে। যৌতুক প্রথার বিরুদ্ধে বলিষ্ঠ প্রতিবাদ ও কল্যাণীর আত্মমর্যাদাবোধ এই গল্পের মূল প্রতিপাদ্য বিষয়। dsfsdfsd",
+        "pq": [
+          {
+            "id": "pq1",
+            "question": "‘অপরিচিতা’ গল্পে অনুজের নাম কী?",
+            "answer": "‘অপরিচিতা’ গল্পে অনুজের নাম বিনু। সে নায়ক অনুপমের চেয়ে দুই বছরের ছোট কিন্তু বুদ্ধি ও বিচক্ষণতায় অনেক এগিয়ে।",
+            "year": "২০২৩, ঢাকা বোর্ড"
+          },
+          {
+            "id": "pq2",
+            "question": "অনুপমের মামা কেন বিবাহ ভেঙে দিলেন?",
+            "answer": "অনুপমের মামা কনের গহনার সোনা পরীক্ষা করতে গিয়ে শম্ভুনাথ সেনের অসম্মতি ও আত্মমর্যাদাবোধের সম্মুখীন হন। শম্ভুনাথ সেন বরপক্ষকে খাইয়ে সম্মানের সাথে বিদায় জানান কিন্তু নিজের মেয়েকে এমন লোভী পাত্রের হাতে তুলে দিতে অস্বীকৃতি জানান।",
+            "year": "২০২২, রাজশাহী বোর্ড"
+          }
+        ],
+        "mcqs": [
+          {
+            "id": "mcq1",
+            "question": "‘অপরিচিতা’ গল্পটি প্রথম কোন পত্রিকায় প্রকাশিত হয়?",
+            "a": "সবুজ পত্র",
+            "b": "বঙ্গদর্শন",
+            "c": "কল্লোল",
+            "d": "সাধনা",
+            "correct": 0
+          },
+          {
+            "id": "mcq2",
+            "question": "অনুপমের আসল অভিভাবক কে ছিলেন?",
+            "a": "মামা",
+            "b": "বাবা",
+            "c": "মা",
+            "d": "বিনু দাদা",
+            "correct": 0
+          }
+        ],
+        "resources": [
+          {
+            "id": "msurgcbriaxdcfk",
+            "type": "doc",
+            "title": "mcq-explanation-guideline.md",
+            "url": "https://raw.githubusercontent.com/roxnorshishir/porashona-classroom-data/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+            "htmlUrl": "https://github.com/roxnorshishir/porashona-classroom-data/blob/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+            "filePath": "c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+            "fileName": "mcq-explanation-guideline.md",
+            "description": "",
+            "createdAt": 1786821612903
+          }
+        ],
+        "notes": [
+          {
+            "id": "note1",
+            "text": "কল্যাণী চরিত্রটি আত্মমর্যাদাবোধ এবং নারী শিক্ষার এক অনন্য প্রতীক। পরীক্ষার বর্ণনামূলক প্রশ্নের জন্য অনুপমের মামার চরিত্রগত বৈশিষ্ট্য মুখস্থ রাখা জরুরি।",
+            "createdAt": 1700000000000
+          }
+        ]
       },
       {
         "id": "b1c2",
@@ -451,6 +501,17 @@
         "id": "b1c10",
         "name": "চিঠি ও আবেদন",
         "num": 10,
+        "summary": "",
+        "pq": [],
+        "mcqs": [],
+        "resources": [],
+        "notes": []
+      },
+      {
+        "id": "mvmnaihh1vpe7ol",
+        "name": "Hi",
+        "group": "জ্যামিতি",
+        "num": 11,
         "summary": "",
         "pq": [],
         "mcqs": [],
