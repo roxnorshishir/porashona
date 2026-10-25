@@ -1,0 +1,17 @@
+[
+  {
+    "id": "log_1792944440394_4vuq1",
+    "timestamp": 1792944440394,
+    "timeString": "10:07:20 PM",
+    "dateString": "25-10-2026",
+    "action": "CREATE",
+    "category": "NOTE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "mvmnaihh1vpe7ol",
+    "chapterName": "Hi",
+    "details": "নতুন নোট তৈরি করা হয়েছে: 'editorial_project_showcase'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  }
+]
