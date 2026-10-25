@@ -1,5 +1,20 @@
 [
   {
+    "id": "log_1792951032860_8ls64",
+    "timestamp": 1792951032860,
+    "timeString": "11:57:12 PM",
+    "dateString": "25-10-2026",
+    "action": "CREATE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "mvmnaihh1vpe7ol",
+    "chapterName": "Hi",
+    "details": "রিসোর্স যোগ করা হয়েছে: 'hero-section'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  },
+  {
     "id": "log_1792944464924_rtrhd",
     "timestamp": 1792944464924,
     "timeString": "10:07:44 PM",
