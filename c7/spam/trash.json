@@ -1,15 +1,13 @@
 [
   {
-    "id": "trash_1786821007521_e6mg5",
-    "deletedAt": 1786821007521,
+    "id": "trash_1792954069736_6qc0e",
+    "deletedAt": 1792954069736,
     "classId": "c7",
-    "type": "RESOURCE",
+    "type": "NOTE",
     "itemData": {
-      "id": "res2",
-      "type": "doc",
-      "title": "অপরিচিতা গল্পের জ্ঞানমূলক ও অনুধাবনমূলক প্রশ্নপত্র PDF",
-      "url": "https://example.com/oporicita.pdf",
-      "description": "পরীক্ষার পূর্ব প্রস্তুতিতে সহায়ক লেকচার শিট।"
+      "id": "note1",
+      "text": "কল্যাণী চরিত্রটি আত্মমর্যাদাবোধ এবং নারী শিক্ষার এক অনন্য প্রতীক। পরীক্ষার বর্ণনামূলক প্রশ্নের জন্য অনুপমের মামার চরিত্রগত বৈশিষ্ট্য মুখস্থ রাখা জরুরি।",
+      "createdAt": 1700000000000
     },
     "bookId": "b1",
     "bookName": "বাংলা ১ম পত্র",
@@ -17,26 +15,6 @@
     "chapterName": "অপরিচিতা",
     "originalFilePath": "",
     "spamFilePath": "",
-    "userEmail": "roxnorshishir@gmail.com"
-  },
-  {
-    "id": "trash_1786821004046_n5a98",
-    "deletedAt": 1786821004046,
-    "classId": "c7",
-    "type": "RESOURCE",
-    "itemData": {
-      "id": "res1",
-      "type": "youtube",
-      "title": "অপরিচিতা — পূর্ণাঙ্গ নাটক ও ব্যাখ্যা ক্লাস",
-      "url": "https://www.youtube.com/watch?v=example",
-      "description": "অনলাইন পাঠশালা কর্তৃক নির্মিত অপরিচিতা গল্পের ভিডিও বিশ্লেষণ।"
-    },
-    "bookId": "b1",
-    "bookName": "বাংলা ১ম পত্র",
-    "chapterId": "b1c1",
-    "chapterName": "অপরিচিতা",
-    "originalFilePath": "",
-    "spamFilePath": "",
-    "userEmail": "roxnorshishir@gmail.com"
+    "userEmail": "shishir.cse.pstu@gmail.com"
   }
 ]
