@@ -398,26 +398,8 @@
             "correct": 0
           }
         ],
-        "resources": [
-          {
-            "id": "msurgcbriaxdcfk",
-            "type": "doc",
-            "title": "mcq-explanation-guideline.md",
-            "url": "https://raw.githubusercontent.com/roxnorshishir/porashona-classroom-data/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
-            "htmlUrl": "https://github.com/roxnorshishir/porashona-classroom-data/blob/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
-            "filePath": "c7/b1/b1c1/resource/mcq-explanation-guideline.md",
-            "fileName": "mcq-explanation-guideline.md",
-            "description": "",
-            "createdAt": 1786821612903
-          }
-        ],
-        "notes": [
-          {
-            "id": "note1",
-            "text": "কল্যাণী চরিত্রটি আত্মমর্যাদাবোধ এবং নারী শিক্ষার এক অনন্য প্রতীক। পরীক্ষার বর্ণনামূলক প্রশ্নের জন্য অনুপমের মামার চরিত্রগত বৈশিষ্ট্য মুখস্থ রাখা জরুরি।",
-            "createdAt": 1700000000000
-          }
-        ]
+        "resources": [],
+        "notes": []
       },
       {
         "id": "b1c2",
