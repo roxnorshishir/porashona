@@ -1,5 +1,29 @@
 [
   {
+    "id": "trash_1792954083228_zfnty",
+    "deletedAt": 1792954083228,
+    "classId": "c7",
+    "type": "RESOURCE",
+    "itemData": {
+      "id": "msurgcbriaxdcfk",
+      "type": "doc",
+      "title": "mcq-explanation-guideline.md",
+      "url": "https://raw.githubusercontent.com/roxnorshishir/porashona-classroom-data/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+      "htmlUrl": "https://github.com/roxnorshishir/porashona-classroom-data/blob/main/c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+      "filePath": "c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+      "fileName": "mcq-explanation-guideline.md",
+      "description": "",
+      "createdAt": 1786821612903
+    },
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "originalFilePath": "c7/b1/b1c1/resource/mcq-explanation-guideline.md",
+    "spamFilePath": "c7/spam/resource/mcq-explanation-guideline.md",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  },
+  {
     "id": "trash_1792954069736_6qc0e",
     "deletedAt": 1792954069736,
     "classId": "c7",
