@@ -1,0 +1,17 @@
+[
+  {
+    "id": "log_1792954071913_gyolz",
+    "timestamp": 1792954071913,
+    "timeString": "12:47:51 AM",
+    "dateString": "26-10-2026",
+    "action": "DELETE",
+    "category": "NOTE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "নোট স্প্যাম ফোল্ডারে পাঠানো হয়েছে: 'undefined'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  }
+]
