@@ -1,5 +1,35 @@
 [
   {
+    "id": "log_1792955492607_pv28h",
+    "timestamp": 1792955492607,
+    "timeString": "01:11:32 AM",
+    "dateString": "26-10-2026",
+    "action": "DELETE",
+    "category": "NOTE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "নোট স্প্যাম ফোল্ডারে পাঠানো হয়েছে: 'undefined'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  },
+  {
+    "id": "log_1792955480263_eo424",
+    "timestamp": 1792955480263,
+    "timeString": "01:11:20 AM",
+    "dateString": "26-10-2026",
+    "action": "DELETE",
+    "category": "RESOURCE",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "details": "রিসোর্স স্প্যাম ফোল্ডারে পাঠানো হয়েছে: 'mcq-explanation-guideline.md'",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  },
+  {
     "id": "log_1792954093654_6jh0h",
     "timestamp": 1792954093654,
     "timeString": "12:48:13 AM",
