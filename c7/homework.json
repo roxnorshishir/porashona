@@ -24,15 +24,15 @@
     "targetStudents": [],
     "completions": {
       "tamim": {
-        "completed": true,
-        "completedAt": "2026-10-30T10:15:00.000Z",
-        "studentName": "Tamim Bhuiyan",
+        "completed": false,
+        "completedAt": null,
+        "studentName": "tamim",
         "studentNote": "খাতায় সারাংশ লিখে প্রস্তুত করেছি।",
         "teacherFeedback": "দারুণ হয়েছে! নির্ভুল হস্তাক্ষর।"
       }
     },
     "createdAt": "2026-10-30T02:00:00.000Z",
-    "updatedAt": "2026-10-29T20:57:56.596Z"
+    "updatedAt": "2026-10-29T21:02:03.796Z"
   },
   {
     "id": "hw-default-2",
