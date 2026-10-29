@@ -1,0 +1,47 @@
+[
+  {
+    "id": "log_1793308560700_gjfk4",
+    "timestamp": 1793308560700,
+    "timeString": "03:16:00 AM",
+    "dateString": "30-10-2026",
+    "action": "UPDATE",
+    "category": "HOMEWORK",
+    "classId": "c7",
+    "bookId": "",
+    "bookName": "",
+    "chapterId": "",
+    "chapterName": "",
+    "details": "হোমওয়ার্ক 'অপরিচিতা - সারাংশ ভালোভাবে পড়ে খাতায় সংক্ষেপে লেখো' গিটহাবে সংরক্ষিত হয়েছে",
+    "userEmail": "shishir.cse.pstu@gmail.com"
+  },
+  {
+    "id": "log_1793307476621_cusvu",
+    "timestamp": 1793307476621,
+    "timeString": "02:57:56 AM",
+    "dateString": "30-10-2026",
+    "action": "UPDATE",
+    "category": "HOMEWORK",
+    "classId": "c7",
+    "bookId": "",
+    "bookName": "",
+    "chapterId": "",
+    "chapterName": "",
+    "details": "হোমওয়ার্ক 'অপরিচিতা - সারাংশ ভালোভাবে পড়ে খাতায় সংক্ষেপে লেখো' সংরক্ষিত হয়েছে",
+    "userEmail": "roxnorshishir@gmail.com"
+  },
+  {
+    "id": "log_1793307476598_sg2xu",
+    "timestamp": 1793307476598,
+    "timeString": "02:57:56 AM",
+    "dateString": "30-10-2026",
+    "action": "UPDATE",
+    "category": "HOMEWORK",
+    "classId": "c7",
+    "bookId": "",
+    "bookName": "",
+    "chapterId": "",
+    "chapterName": "",
+    "details": "হোমওয়ার্ক 'অপরিচিতা - সারাংশ ভালোভাবে পড়ে খাতায় সংক্ষেপে লেখো' সংরক্ষিত হয়েছে",
+    "userEmail": "roxnorshishir@gmail.com"
+  }
+]
