@@ -12,6 +12,16 @@
     "assignedDate": "2026-10-28",
     "dueDate": "2026-11-01",
     "priority": "high",
-    "teacherComment": "ভেনচিত্র অঙ্কনে যেন কোনো ওভারল্যাপিং ভুল না হয় সেদিকে সতর্ক দৃষ্টি রাখবে।"
+    "teacherComment": "ভেনচিত্র অঙ্কনে যেন কোনো ওভারল্যাপিং ভুল না হয় সেদিকে সতর্ক দৃষ্টি রাখবে।",
+    "chapterNum": 1,
+    "resourceRef": {
+      "targetTab": "summary"
+    },
+    "assignedBy": {
+      "name": "Shishir Bhuiyan",
+      "email": "shishir.cse.pstu@gmail.com"
+    },
+    "createdAt": "2026-10-29T21:40:19.817Z",
+    "updatedAt": "2026-10-29T21:40:19.817Z"
   }
 ]
