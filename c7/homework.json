@@ -1,5 +1,30 @@
 [
   {
+    "id": "hw-1793383752326-67lup5",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "chapterNum": 1,
+    "activityType": "mcq",
+    "title": "অপরিচিতা: বোর্ড ভিত্তিক সকল বহুনির্বাচনী (MCQ) প্রশ্ন সমাধান করো",
+    "description": "১. বিগত বছরের বোর্ড পরীক্ষার সকল বহুনির্বাচনী (MCQ) প্রশ্ন মনোযোগ সহকারে বিশ্লেষণ করো।\n২. প্রতিটি প্রশ্নের উদ্দীপক এবং চারটি বিকল্পই সতর্কভাবে পড়ে সঠিক উত্তরটি চিহ্নিত করো।\n৩. বিভ্রান্তিকর অপশনগুলো সতর্কতার সাথে বাদ দিয়ে সঠিক যুক্তি যাচাই করো এবং সময় মেপে অনুশীলনের অভ্যাস করো।",
+    "resourceRef": {
+      "targetTab": "mcq"
+    },
+    "assignedDate": "2026-10-31",
+    "dueDate": "2026-11-02",
+    "priority": "normal",
+    "assignedBy": {
+      "name": "Shishir Bhuiyan",
+      "email": "shishir.cse.pstu@gmail.com"
+    },
+    "teacherComment": "",
+    "createdAt": "2026-10-30T18:09:12.326Z",
+    "updatedAt": "2026-10-30T18:09:12.326Z"
+  },
+  {
     "id": "hw-1793310111459-z01np1",
     "classId": "c7",
     "bookId": "b1",
