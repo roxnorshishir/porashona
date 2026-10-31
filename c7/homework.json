@@ -1,39 +1,5 @@
 [
   {
-    "id": "hw-1793411560895-mc7w0v",
-    "classId": "c7",
-    "bookId": "b7",
-    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
-    "chapterId": "b7c4",
-    "chapterName": "বাংলাদেশের অর্থনীতি",
-    "chapterNum": 4,
-    "activityType": "note",
-    "title": "বাংলাদেশের অর্থনীতি: ক্লাস নোট গভীরভাবে রিভিশন দাও ও মূল পয়েন্ট চিহ্নিত করো",
-    "description": "১. ক্লাস লেকচারের নোটগুলো গভীরভাবে রিভিশন দাও।\n২. গুরুত্বপূর্ণ সূত্র, সংজ্ঞা ও বোর্ড টিপসগুলো মুখস্থ ও অনুশীলন করে খাতায় লিখে রাখো যাতে পরীক্ষার সময় দ্রুত চোখ বুলিয়ে নেওয়া যায়।\n\n\ndfgdfgfdkfdgkdfgkdfgkdf;;kgdf;lgdfk;lg;gdf;lgsdfgkdfskgdf;lgdfksg;lsdfgk;ldf;gklsdf;klgdsf;lkgdfkl;",
-    "resourceRef": {
-      "targetTab": "notes"
-    },
-    "assignedDate": "2026-10-31",
-    "dueDate": "2026-11-02",
-    "priority": "urgent",
-    "assignedBy": {
-      "name": "Shishir Bhuiyan",
-      "email": "shishir.cse.pstu@gmail.com"
-    },
-    "teacherComment": "",
-    "createdAt": "2026-10-31T01:52:40.896Z",
-    "updatedAt": "2026-10-31T09:02:04.037Z",
-    "completions": {
-      "shishir.cse.pstu@gmail.com": {
-        "completed": false,
-        "completedAt": null,
-        "studentName": "shishir.cse.pstu@gmail.com",
-        "studentEmail": "shishir.cse.pstu@gmail.com"
-      }
-    },
-    "status": "running"
-  },
-  {
     "id": "hw-1793411498528-ach3ot",
     "classId": "c7",
     "bookId": "b6",
