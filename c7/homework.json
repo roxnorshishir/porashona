@@ -22,7 +22,16 @@
     },
     "teacherComment": "",
     "createdAt": "2026-10-31T01:52:40.896Z",
-    "updatedAt": "2026-10-31T01:52:40.896Z"
+    "updatedAt": "2026-10-31T09:02:04.037Z",
+    "completions": {
+      "shishir.cse.pstu@gmail.com": {
+        "completed": false,
+        "completedAt": null,
+        "studentName": "shishir.cse.pstu@gmail.com",
+        "studentEmail": "shishir.cse.pstu@gmail.com"
+      }
+    },
+    "status": "running"
   },
   {
     "id": "hw-1793411498528-ach3ot",
