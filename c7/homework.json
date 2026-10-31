@@ -72,7 +72,15 @@
     },
     "teacherComment": "",
     "createdAt": "2026-10-30T18:09:12.326Z",
-    "updatedAt": "2026-10-30T18:09:12.326Z"
+    "updatedAt": "2026-10-31T08:12:40.714Z",
+    "completions": {
+      "shishir.cse.pstu@gmail.com": {
+        "completed": true,
+        "completedAt": "2026-10-31T08:12:40.714Z",
+        "studentName": "Shishir Bhuiyan",
+        "studentEmail": "shishir.cse.pstu@gmail.com"
+      }
+    }
   },
   {
     "id": "hw-1793310111459-z01np1",
@@ -97,6 +105,14 @@
     },
     "teacherComment": "",
     "createdAt": "2026-10-29T21:41:51.460Z",
-    "updatedAt": "2026-10-29T21:41:51.460Z"
+    "updatedAt": "2026-10-31T08:13:05.346Z",
+    "completions": {
+      "shishir.cse.pstu@gmail.com": {
+        "completed": true,
+        "completedAt": "2026-10-31T08:13:05.345Z",
+        "studentName": "Shishir Bhuiyan",
+        "studentEmail": "shishir.cse.pstu@gmail.com"
+      }
+    }
   }
 ]
