@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "hw-1793442369943-9h2bxa",
+    "classId": "c7",
+    "bookId": "b1",
+    "bookName": "বাংলা ১ম পত্র",
+    "chapterId": "b1c1",
+    "chapterName": "অপরিচিতা",
+    "chapterNum": 1,
+    "activityType": "mcq",
+    "title": "অপরিচিতা: বোর্ড ভিত্তিক সকল বহুনির্বাচনী (MCQ) প্রশ্ন সমাধান করো",
+    "description": "পাঠ্যবইয়ের মূল টেক্সট অন্তত দু'বার গভীর মনোযোগে রিডিং পড়বে। হুবহু মুখস্থ না লিখে নিজের ভাবনায় সারবস্তু খাতায় ১ পৃষ্ঠার মধ্যে সুন্দর হস্তাক্ষরে লিপিবদ্ধ করবে।",
+    "resourceRef": {
+      "targetTab": "mcq"
+    },
+    "assignedDate": "2026-10-31",
+    "dueDate": "2026-11-01",
+    "priority": "urgent",
+    "assignedBy": {
+      "name": "Shishir Bhuiyan",
+      "email": "shishir.cse.pstu@gmail.com"
+    },
+    "teacherComment": "",
+    "createdAt": "2026-10-31T10:26:09.944Z",
+    "updatedAt": "2026-10-31T10:26:09.944Z"
+  }
+]
