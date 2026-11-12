@@ -16,7 +16,7 @@
     "assignedDate": "2026-11-12",
     "dueDate": "2026-11-15",
     "priority": "normal",
-    "status": "running",
+    "status": "completed",
     "assignedBy": {
       "name": "Shishir Bhuiyan",
       "email": "shishir.cse.pstu@gmail.com"
@@ -24,7 +24,7 @@
     "teacherComment": "",
     "completions": {},
     "createdAt": "2026-11-12T16:08:37.250Z",
-    "updatedAt": "2026-11-12T16:08:37.250Z"
+    "updatedAt": "2026-11-12T18:17:04.160Z"
   },
   {
     "id": "hw-1793411498528-ach3ot",
