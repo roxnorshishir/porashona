@@ -140,34 +140,6 @@
     "updatedAt": "2026-11-12T11:54:01.809Z"
   },
   {
-    "classId": "c7",
-    "title": "E2E parallel 4 2026-11-12T11-53-39-236Z",
-    "type": "special",
-    "bookId": "",
-    "bookName": "",
-    "chapterId": "",
-    "chapterName": "",
-    "chapterNum": null,
-    "activityType": "custom",
-    "description": "",
-    "resourceRef": {
-      "targetTab": "summary"
-    },
-    "assignedDate": "2026-11-12",
-    "dueDate": "2026-11-12",
-    "priority": "normal",
-    "assignedBy": {
-      "name": "Test Teacher",
-      "email": "teacher1@porashona.local"
-    },
-    "id": "hw-1794484440814-ssaahs",
-    "status": "running",
-    "teacherComment": "",
-    "completions": {},
-    "createdAt": "2026-11-12T11:54:00.814Z",
-    "updatedAt": "2026-11-12T11:54:00.814Z"
-  },
-  {
     "id": "hw-1793411498528-ach3ot",
     "classId": "c7",
     "bookId": "b6",
