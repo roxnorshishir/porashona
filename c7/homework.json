@@ -22,7 +22,7 @@
     },
     "id": "hw-1794484427148-579etg",
     "status": "running",
-    "teacherComment": "",
+    "teacherComment": "খুব ভালো হয়েছে",
     "completions": {
       "student1@porashona.local": {
         "completed": true,
@@ -33,7 +33,8 @@
       }
     },
     "createdAt": "2026-11-12T11:53:47.148Z",
-    "updatedAt": "2026-11-12T11:53:50.489Z"
+    "updatedAt": "2026-11-12T11:53:51.849Z",
+    "commentUpdatedAt": "2026-11-12T11:53:51.849Z"
   },
   {
     "id": "hw-1793411498528-ach3ot",
