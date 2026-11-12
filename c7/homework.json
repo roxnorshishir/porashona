@@ -23,9 +23,17 @@
     "id": "hw-1794484427148-579etg",
     "status": "running",
     "teacherComment": "",
-    "completions": {},
+    "completions": {
+      "student1@porashona.local": {
+        "completed": true,
+        "completedAt": "2026-11-12T11:53:50.489Z",
+        "updatedAt": "2026-11-12T11:53:50.489Z",
+        "studentName": "Test Student",
+        "studentEmail": "student1@porashona.local"
+      }
+    },
     "createdAt": "2026-11-12T11:53:47.148Z",
-    "updatedAt": "2026-11-12T11:53:47.148Z"
+    "updatedAt": "2026-11-12T11:53:50.489Z"
   },
   {
     "id": "hw-1793411498528-ach3ot",
