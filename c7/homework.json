@@ -1,10 +1,10 @@
 [
   {
     "classId": "c7",
-    "title": "E2E কাজ 2026-11-12T11-50-23-574Z",
+    "title": "E2E edited 2026-11-12T11-50-23-574Z",
     "type": "special",
-    "description": "automated write test",
-    "dueDate": "2026-11-15",
+    "description": "",
+    "dueDate": "2026-11-12",
     "bookId": "",
     "bookName": "",
     "chapterId": "",
@@ -33,7 +33,7 @@
       }
     },
     "createdAt": "2026-11-12T11:50:24.362Z",
-    "updatedAt": "2026-11-12T11:50:29.235Z",
+    "updatedAt": "2026-11-12T11:50:31.053Z",
     "commentUpdatedAt": "2026-11-12T11:50:29.235Z"
   },
   {
