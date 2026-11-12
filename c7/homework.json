@@ -22,7 +22,7 @@
     },
     "teacherComment": "",
     "createdAt": "2026-10-31T01:51:38.529Z",
-    "updatedAt": "2026-10-31T17:42:05.807Z",
+    "updatedAt": "2026-11-12T15:58:44.976Z",
     "completions": {
       "shishir.cse.pstu@gmail.com": {
         "completed": true,
@@ -30,7 +30,8 @@
         "studentName": "Shishir Bhuiyan",
         "studentEmail": "shishir.cse.pstu@gmail.com"
       }
-    }
+    },
+    "status": "completed"
   },
   {
     "id": "hw-1793383752326-67lup5",
