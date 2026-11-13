@@ -1744,5 +1744,14 @@
         "subChapters": []
       }
     ]
+  },
+  {
+    "id": "mwfa8eaxt3auahp",
+    "classId": "c9",
+    "name": "Bangla",
+    "sub": "",
+    "color": "#7c6cff",
+    "icon": "📗",
+    "chapters": []
   }
 ]
